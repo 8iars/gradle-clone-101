@@ -1,3 +1,5 @@
+Cloned from https://github.com/nanuchi/my-project for study purpose
+
 ##### build the project
 
     ./gradlew build
